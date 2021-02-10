@@ -12,7 +12,7 @@
 
 ## About me
 
-Initially, I want to be a front-end developer, after that, I will be seek a new knowledge in business sphere, in order to in the future become a strong Business-developer(Principle engineer, Team Lead and etc.)
+Initially, I want to be a front-end developer, after that, I will be seeking a new knowledge in business sphere, in order to in the future become a strong Business-developer(Principle engineer, Team Lead and etc.)
 
 I am a human scanner. I am interested in many areas as well as related areas, and I believe that it helps me solve problems or tasks that arise at work, faster if I did not have such knowledge. 
 
