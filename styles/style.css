@@ -1,0 +1,149 @@
+.visually-hidden {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding:0 !important;
+    border:0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #0366d6;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.page-header--logo {
+    width: 250px;
+}
+
+.page-main {
+    
+    box-sizing: border-box;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.personal-information--header {
+    font-size: 24px;
+
+    border-bottom: 1px solid #d1d5da;
+}
+
+.personal-information--list {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: left;
+    
+}
+
+.personal-information--item {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.about-me--header {
+    font-size: 24px;
+
+    border-bottom: 1px solid #d1d5da;
+}
+
+.about-me--text {
+    font-size: 16px;
+    text-align: left;
+}
+
+.about-me--text__subtitle {
+    padding-left: 10px;
+    
+    text-align: left;
+    color: #6a737d;
+    
+    border-left: 5px solid #6a737d;
+
+}
+
+.about-me--list {
+    text-align: left;
+}
+
+.about-me--item {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.about-me--text__preference {
+    text-align: left;
+    font-weight: 700;
+}
+
+.skills--header {
+    font-size: 24px;
+
+    border-bottom: 1px solid #d1d5da;
+}
+
+.skills--text {
+    text-align: left;
+}
+
+.skills--subtitle {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.skills--example__text {
+    text-align: left;
+}
+
+.skills--example__code {
+    text-align: left;
+
+    background-color: #e1e4e8;
+}
+
+.education--header {
+    font-size: 24px;
+    text-align: center;
+
+    border-bottom: 1px solid #d1d5da;
+}
+
+.education--text {
+    text-align: left;
+}
+
+.languages--header {
+    font-size: 24px;
+    text-align: center;
+
+    border-bottom: 1px solid #d1d5da;
+}
+
+.languages--text {
+    text-align: left;
+}
